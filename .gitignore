@@ -13,3 +13,9 @@ __pycache__/
 .DS_STORE
 .DS_store
 /.env
+
+# Pytest
+.pytest_cache
+
+hello.py
+data
