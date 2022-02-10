@@ -19,3 +19,7 @@ __pycache__/
 
 hello.py
 data
+/note_self.txt
+/env/
+
+/tests/dummy_data
