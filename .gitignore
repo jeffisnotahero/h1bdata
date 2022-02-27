@@ -8,6 +8,7 @@ __pycache__/
 .DS_STORE
 .DS_store
 .env
+.venv
 
 /note_self.txt
 env/
